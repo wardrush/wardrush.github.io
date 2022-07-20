@@ -1,21 +1,22 @@
-Dimension by HTML5 UP
+wardrush.github.io
+================================================================================
+
+Source code for my personal website. MIT Licensed. Contains a copy of my resume, 
+as well as some links to Github. :octocat:
+
+
+Built using:
+--------------------------------------------------------------------------------
+[HTML5](https://developers.google.com/web/)  
+[Bootstrap](http://getbootstrap.com/) for CSS  
+[jQuery](https://jquery.com/) for JS  
+[git](https://git-scm.com/) for source control
+
+Based on Dimension by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
-
-This is Dimension, a fun little one-pager with modal-ized (is that a word?) "pages"
-and a cool depth effect (click on a menu item to see what I mean). Simple, fully
-responsive, and kitted out with all the usual pre-styled elements you'd expect.
-Hope you dig it :)
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
+Images courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
 
 Credits:
 
@@ -26,5 +27,9 @@ Credits:
 		Font Awesome (fontawesome.io)
 
 	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+		[jQuery] (jquery.com)
+		[Responsive Tools] (github.com/ajlkn/responsive-tools)
+		[HTML5](https://developers.google.com/web/)  
+		[Bootstrap](http://getbootstrap.com/) for CSS  
+		[jQuery](https://jquery.com/) for JS  
+		[git](https://git-scm.com/) for source control
